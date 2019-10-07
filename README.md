@@ -37,7 +37,7 @@
     ```
 ## Você pode inserir o seguinte comando. para criar o autoexec
 
-    ```cs
+    ```sh
     # Clicar no menu Propriedades
     ```
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
