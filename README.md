@@ -74,9 +74,9 @@
 1. **Verificando o resultado**
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
-##  :coffee: Contribuindo
+## Contribuindo
 Solicitações pull são bem-vindas. Para grandes mudanças.
 
-##  :copyright: License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
