@@ -49,12 +49,12 @@
 1. **Você pode inserir o seguinte comando. para criar o autoexec**
 
 
-    #### Clicar no menu Propriedades
+    #### Clicar no menu propriedades
     
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
     
     
-    #### Definir Opções de Inicialização
+    #### Definir opções de inicialização
     
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
     
