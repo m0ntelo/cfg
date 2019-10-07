@@ -25,33 +25,39 @@
     ```sh
     # após colar o arquivo, é necessario executá-lo. use o comando.
     exec montelo.cfg
-    bind "DEL" "exec montelo"
     ```
     
-1.  **Automatizando o auto exec**
+1.  **Automatizando o autoexec**
 
     Caso queira automatizar o carregamento
 
     ```sh
     # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
-    
-     # Você pode inserir o comando. acessando o seguinte local
-    
-    clicar no menu Propriedades
+    ```
+## Você pode inserir o seguinte comando. para criar o autoexec
+
+    ```sh
+    # Clicar no menu Propriedades
+    ```
     <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
     
-    Definir Opções de Inicialização
+    ```sh
+    #Definir Opções de Inicialização
+    ```
     <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
     
+    ```sh
     * -novid, para pular a introdução
     * -tickrate  128, para criar um lobby com 128 tick rate
     * -freq,  seguido do valor máximo de taxa de atualização (refresh rate) de sua tela - que pode ser 60, 75, 120 ou 144Hz. Eu tenho uma tela de 144Hz, portanto, eu coloco o valor "144"
     * -autoexec.cfg,  para o carregar automaticamente o nosso arquivo de configuração recém-criado.
-    
-    Insira os comandos conforme a imagem
-    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
     ```
+    ```sh
+    #Insira os comandos conforme a imagem
+    ```
+    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
+    
 ## Verificando o resultado
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
