@@ -8,7 +8,7 @@
 </h1>
 
 
-## 🚀 Iniciando
+## :shipit: Iniciando
 
 
 1.  **Criar arquivo**
@@ -48,12 +48,12 @@
 1. **Você pode inserir o seguinte comando. para criar o autoexec**
 
 
-    ### Clicar no menu Propriedades
+    #### Clicar no menu Propriedades
     
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
     
     
-    ### Definir Opções de Inicialização
+    #### Definir Opções de Inicialização
     
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
     
@@ -65,7 +65,7 @@
     * -autoexec.cfg,  para o carregar automaticamente o nosso arquivo de configuração recém-criado.
     ```
     
-    ### Insira os comandos conforme a imagem
+    #### Insira os comandos conforme a imagem
 
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
    
