@@ -35,9 +35,9 @@
     # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
     ```
-## Você pode inserir o seguinte comando. para criar o autoexec
+1. **Você pode inserir o seguinte comando. para criar o autoexec**
 
-    ```sh
+    ```cs
     # Clicar no menu Propriedades
     ```
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
@@ -53,12 +53,13 @@
     * -freq,  seguido do valor máximo de taxa de atualização (refresh rate) de sua tela - que pode ser 60, 75, 120 ou 144Hz. Eu tenho uma tela de 144Hz, portanto, eu coloco o valor "144"
     * -autoexec.cfg,  para o carregar automaticamente o nosso arquivo de configuração recém-criado.
     ```
+    
     ```cs
     #Insira os comandos conforme a imagem
     ```
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
     
-## Verificando o resultado
+1. **Verificando o resultado**
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
 ## Contribuindo
