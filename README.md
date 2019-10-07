@@ -23,8 +23,17 @@
     É necessario executar o arquivo para carregar os comandos
 
     ```sh
-    # após colar o arquivo, é necessario executá-lo. use o comando oa bind
+    # após colar o arquivo, é necessario executá-lo. use o comando.
     exec montelo.cfg
+    bind "DEL" "exec montelo"
+    ```
+    
+1.  **Automatizando o auto exec**
+
+    Caso queira automatizar o carregamento
+
+    ```sh
+    # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
     ```
     
