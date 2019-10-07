@@ -7,45 +7,60 @@
   CFG CS:GO
 </h1>
 
+
 ## 🚀 Iniciando
+
 
 1.  **Criar arquivo**
 
     Esse arquivo contém todos os comandos necessários para sua gameplay
 
+
+
     ```cs
     # acesse a pasta e cole o arquivo montelo.cfg
     C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
     ```
-
+    
+    
 1.  **Executando á cfg.**
 
     É necessario executar o arquivo para carregar os comandos
+
 
     ```cs
     # após colar o arquivo, é necessario executá-lo. use o comando.
     exec montelo.cfg
     ```
     
+    
 1.  **Automatizando o autoexec**
 
     Caso queira automatizar o carregamento
+
 
     ```cs
     # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
     ```
+    
+    
 1. **Você pode inserir o seguinte comando. para criar o autoexec**
+
 
     ```cs
     # Clicar no menu Propriedades
     ```
+    
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
+    
     
     ```cs
     #Definir Opções de Inicialização
     ```
+    
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
+    
     
     ```cs
     * -novid, para pular a introdução
@@ -58,6 +73,7 @@
     #Insira os comandos conforme a imagem
     ```
    <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
+   
     
 1. **Verificando o resultado**
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
