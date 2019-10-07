@@ -13,7 +13,7 @@
 
     Esse arquivo contém todos os comandos necessários para sua gameplay
 
-    ```sh
+    ```cs
     # acesse a pasta e cole o arquivo montelo.cfg
     C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
     ```
@@ -22,7 +22,7 @@
 
     É necessario executar o arquivo para carregar os comandos
 
-    ```sh
+    ```cs
     # após colar o arquivo, é necessario executá-lo. use o comando.
     exec montelo.cfg
     ```
@@ -31,32 +31,32 @@
 
     Caso queira automatizar o carregamento
 
-    ```sh
+    ```cs
     # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
     ```
 ## Você pode inserir o seguinte comando. para criar o autoexec
 
-    ```sh
+    ```cs
     # Clicar no menu Propriedades
     ```
-    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
+   <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
     
-    ```sh
+    ```cs
     #Definir Opções de Inicialização
     ```
-    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
+   <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
     
-    ```sh
+    ```cs
     * -novid, para pular a introdução
     * -tickrate  128, para criar um lobby com 128 tick rate
     * -freq,  seguido do valor máximo de taxa de atualização (refresh rate) de sua tela - que pode ser 60, 75, 120 ou 144Hz. Eu tenho uma tela de 144Hz, portanto, eu coloco o valor "144"
     * -autoexec.cfg,  para o carregar automaticamente o nosso arquivo de configuração recém-criado.
     ```
-    ```sh
+    ```cs
     #Insira os comandos conforme a imagem
     ```
-    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
+   <img alt="cs:go" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
     
 ## Verificando o resultado
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
