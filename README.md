@@ -29,7 +29,7 @@
 
 
     ```cs
-    # após colar o arquivo, é necessario executá-lo. use o comando.
+    # após colar o arquivo, é necessario executá-lo. abra o console do jogo e execute o seguinte comando.
     exec montelo.cfg
     ```
     
