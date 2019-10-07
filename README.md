@@ -41,7 +41,7 @@
 
 
     ```cs
-    # Essa bind é util caso queira automatizar o auto exec de sua cfg
+    # Essa bind é util caso queira automatizar o autoexec de sua cfg
     bind "DEL" "exec montelo"
     ```
     
