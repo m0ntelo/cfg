@@ -74,7 +74,7 @@
 1. **Verificando o resultado**
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
-## Contribuindo
+## :new_moon_with_face: Contribuindo
 Solicitações pull são bem-vindas. Para grandes mudanças.
 
 ## License
