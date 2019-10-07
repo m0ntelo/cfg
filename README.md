@@ -75,9 +75,7 @@
 Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
 ## Contribuindo
-Solicitações pull são bem-vindas. Para grandes mudanças, abra um problema primeiro para discutir o que você gostaria de mudar.
-
-Atualize os testes conforme apropriado.
+Solicitações pull são bem-vindas. Para grandes mudanças.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
