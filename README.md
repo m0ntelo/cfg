@@ -7,7 +7,7 @@
   CFG CS:GO
 </h1>
 
-## 🚀 Quick start
+## 🚀 Iniciando
 
 1.  **Criar arquivo**
 
@@ -35,12 +35,30 @@
     ```sh
     # Essa bind é util caso queira automatizar o auto exec de sua cfg
     bind "DEL" "exec montelo"
-    ```
     
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+     # Você pode inserir o comando. acessando o seguinte local
+    
+    clicar no menu Propriedades
+    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/5.jpg" width="700" />
+    
+    Definir Opções de Inicialização
+    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/6.jpg" width="700" />
+    
+    * -novid, para pular a introdução
+    * -tickrate  128, para criar um lobby com 128 tick rate
+    * -freq,  seguido do valor máximo de taxa de atualização (refresh rate) de sua tela - que pode ser 60, 75, 120 ou 144Hz. Eu tenho uma tela de 144Hz, portanto, eu coloco o valor "144"
+    * -autoexec.cfg,  para o carregar automaticamente o nosso arquivo de configuração recém-criado.
+    
+    Insira os comandos conforme a imagem
+    <img alt="Gatsby" src="https://csgopedia.com/uploads/blog/cfg%20file/7.jpg" width="700" />
+    ```
+## Verificando o resultado
+Inicie o CS:GO para verificar se as nossas intenções se concretizaram. Crie um mapa com bots. 
 
-Please make sure to update tests as appropriate.
+## Contribuindo
+Solicitações pull são bem-vindas. Para grandes mudanças, abra um problema primeiro para discutir o que você gostaria de mudar.
+
+Atualize os testes conforme apropriado.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
