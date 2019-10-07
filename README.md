@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img alt="Gatsby" src="https://i.redd.it/1s0j5e4fhws01.png" width="300" />
+    <img alt="Gatsby" src="https://i.redd.it/1s0j5e4fhws01.png" width="200" />
   </a>
 </p>
 <h1 align="center">
