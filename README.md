@@ -7,7 +7,7 @@
   CFG CS:GO
 </h1>
 
-<img serc="https://img.shields.io/apm/l/montelo?color=red&label=black&logo=red&logoColor=red&style=flat-square">
+<img src="https://img.shields.io/apm/l/montelo?color=red&label=black&logo=red&logoColor=red&style=flat-square">
 
 ## :shipit: Iniciando
 
