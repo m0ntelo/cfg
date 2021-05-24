@@ -19,7 +19,7 @@
 
 
     ```cs
-    # acesse a pasta e cole o arquivo montelo.cfg
+    # acesse a pasta e cole o arquivo m0ntelo.cfg
     C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
     ```
     
@@ -31,7 +31,7 @@
 
     ```cs
     # após colar o arquivo, é necessario executá-lo. abra o console do jogo e execute o seguinte comando.
-    exec montelo.cfg
+    exec m0ntelo.cfg
     ```
     
     
@@ -42,7 +42,7 @@
 
     ```cs
     # Essa bind é util caso queira automatizar o autoexec de sua cfg
-    bind "DEL" "exec montelo"
+    bind "DEL" "exec m0ntelo"
     ```
     
     
